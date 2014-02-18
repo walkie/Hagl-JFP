@@ -3,7 +3,7 @@
 
 *Note: The most recent version of Hagl can be found here: https://github.com/walkie/Hagl*  
 *This repository corresponds to a 2009 JFP paper, which is
-[available online](http://web.engr.oregonstate.edu/~walkiner/papers/Hagl_JFP09.pdf).*
+[available online](http://web.engr.oregonstate.edu/~walkiner/papers/jfp09-hagl.pdf).*
 
 To play with the examples, load them into GHCi by running `ghci Examples.hs`
 from this directory.
